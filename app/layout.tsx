@@ -4,8 +4,8 @@ import "./globals.css";
 import { Providers } from "@/components/providers";
 
 export const metadata: Metadata = {
-  title: "riyan — builder. founder. creator.",
-  description: "websites, automation & ideas — built with intention.",
+  title: "Riyan — Builder. Founder. Creator.",
+  description: "Websites, Automation & Ideas — Built with intention.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
