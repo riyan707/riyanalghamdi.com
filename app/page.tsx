@@ -28,7 +28,7 @@ import { Button } from "@/components/ui/button";
 
 const socials = [
   { label: "Instagram", href: "https://instagram.com/riyanalghamdii", icon: InstagramLogo },
-  { label: "YouTube", href: "https://youtube.com", icon: YoutubeLogo },
+  { label: "YouTube", href: "https://www.youtube.com/@theriyanalghamdi", icon: YoutubeLogo },
   { label: "TikTok", href: "https://www.tiktok.com/@riyanlivee", icon: TiktokLogo },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/riyanalghamdi/", icon: LinkedinLogo },
   { label: "GitHub", href: "https://github.com/riyan707", icon: GithubLogo },
