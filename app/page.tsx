@@ -137,8 +137,14 @@ export default function Page() {
         </div>
 
         <div className="mx-auto w-full max-w-3xl px-5 py-10">
-          {/* Top-right controls */}
-          <div className="mb-10 flex items-center justify-end">
+          {/* Top bar */}
+          <div className="mb-10 flex items-center justify-between">
+            <Link
+              href="/work"
+              className="inline-flex items-center gap-1.5 text-sm text-muted-foreground transition-colors hover:text-foreground"
+            >
+              Work
+            </Link>
             <ThemeToggle />
           </div>
 
